@@ -20,6 +20,7 @@
     <fileSet>
       <directory>bin</directory>
       <includes>
+        <include>2.*/*linux-loongarch_64*</include>
       	<include>2.*/*linux-x86_64*</include>
       	<include>2.*/*osx-x86_64*</include>
       	<include>2.*/*windows-x86_64*</include>
